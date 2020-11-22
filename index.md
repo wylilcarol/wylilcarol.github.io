@@ -35,3 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Report on papers of other scholars
+
+Chen,Ting and James Kung(2019), [“Busting the ‘Princelings’: The Campaign against Corruption in China’s Primary Land Market”,The Quarterly Journal of Economics, 134(1),pp.185–226](https://academic.oup.com/qje/article/134/1/185/5140154) and [Slides]().
+
