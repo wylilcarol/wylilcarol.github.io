@@ -116,6 +116,19 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Site: Changchun, Jilin</small>
 * <small>Jilin University, Osaka Municipal University and Jeonnam National University, South Korea</small>
 
+<h2 id="literature">Literature</h2>
+
+Chen,Ting and James Kung(2019), [“Busting the ‘Princelings’: The Campaign against Corruption in China’s Primary Land Market”,The Quarterly Journal of Economics, 134(1),pp.185–226](https://academic.oup.com/qje/article/134/1/185/5140154) and [[Slides]](https://wylilcarol.github.io/files/Busting.pptx).
+
+Einav L, Finkelstein A, Cullen M R(2010), [“Estimating welfare in insurance markets using variation in prices”, The Quarterly Journal of Economics, 125(3),pp.877-921.](https://www.nber.org/papers/w14414) and [[Slides]](https://wylilcarol.github.io/files/Estimating.pptx).
+
+Metcalf G E, Wang Q(2019), [“Abandoned by Coal, Swallowed by Opioids?”, National Bureau of Economic Research](https://www.nber.org/papers/w26551) and [[Slides]](https://wylilcarol.github.io/files/Abandoned.pdf).
+
+Fan, M., He, G., & Zhou, M. (2020), [“The winter choke: Coal-Fired heating, air pollution, and mortality in China”. Journal of Health Economics, 102316.](https://www.sciencedirect.com/science/article/abs/pii/S0167629619311257) and [[Slides]](https://wylilcarol.github.io/files/Choke.pdf).
+
+Kinnan C, Wang S Y, Wang Y.(2018), [“Access to migration for rural households”, American Economic Journal: Applied Economics, 10(4),pp.79-119.](https://www.aeaweb.org/articles?id=10.1257/app.20160395) and [[Slides]](https://wylilcarol.github.io/files/Access.pdf)
+
+
 <h2 id="contact">Contact</h2>
 
 * <small>**Tel No**: +86 155-6881-3151</small> 
