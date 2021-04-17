@@ -106,6 +106,10 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Anhui University of Finance and Economics (Organizer)</small>
 * <small>Council of China Labor Economics Scholars Forum, CLEF (Sponsor)</small>
 
+<small>**The Impact of City Size to ImmigrantWage Premium, Nov 2020** [[Slides]](https://wylilcarol.github.io/files/Premium.pdf)</small> 
+* <small>Thesis Proposal</small>
+* <small>Site: Institute of Population Research, School of Business, Nanjing University</small>
+
 <small>**Report on Pension System, Mar 2018**</small> 
 * <small>Sino-Japanese Economics and East Asian Economics Development Forum</small>
 * <small>Site: Nishimiya, Hyogo Prefecture in Japan</small>
