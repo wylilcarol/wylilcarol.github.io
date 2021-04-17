@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Languages: English<br>
 	Technologies: Stata (Programming), R (Data analysis, Visualization), Python (Basic grammar, Simple crawler, Openpyxl,NumPy, Matplotlib, Pandas), Eviews, PS, Mysql<br>
 	Document Creation: Microsoft Office Suite, LaTex, Markdown, HTML<br>
-	Others: C1 Driver’s License  </small> 
+	Other skills: C1 Driver’s License  </small> 
 
 
 <h2 id="education">Education</h2> 
