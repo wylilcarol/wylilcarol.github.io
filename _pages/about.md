@@ -40,10 +40,9 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Master at Business School of Nanjing University</small> 
 * <small>Major in Population Resources and Environmental Economics</small>  
 * <small>Research Interests: Labor Economics, Applied Microeconometrics, Migrant Population, Wage Inequality</small>  
-* <small>Skills:<br>
-	Languages: English<br>
-	Technologies: **Stata** (Programming), **R** (Data analysis, Visualization), **Python** (Basic grammar, Simple crawler, Openpyxl,NumPy, Matplotlib, Pandas), **Eviews**, **PS**, **Mysql**<br>
-	Document Creation: **Microsoft Office Suite**, **LaTex**, **Markdown**, **HTML**<br>
+* <small>Languages: English<br>
+	Technologies: Stata (Programming), R (Data analysis, Visualization), Python (Basic grammar, Simple crawler, Openpyxl,NumPy, Matplotlib, Pandas), Eviews, PS, Mysql<br>
+	Document Creation: Microsoft Office Suite, LaTex, Markdown, HTML<br>
 	Others: C1 Driver’s License  </small> 
 
 
