@@ -40,6 +40,11 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Master at Business School of Nanjing University</small> 
 * <small>Major in Population Resources and Environmental Economics</small>  
 * <small>Research Interests: Labor Economics, Applied Microeconometrics, Migrant Population, Wage Inequality</small>  
+* <small>Skills:<br>
+	Languages: English<br>
+	Technologies: Stata (Programming), R (Data analysis, Visualization), Python (Basic grammar, Simple crawler, Openpyxl,NumPy, Matplotlib, Pandas), Eviews, PS, Mysql<br>
+	Document Creation: Microsoft Office Suite, LaTex, Markdown, HTML<br>
+	Others: C1 Driver’s License  </small> 
 
 
 <h2 id="education">Education</h2> 
@@ -48,3 +53,24 @@ h1, h2, h3, h4, h5, h6 {
 	Supervisor：[Qu Zhaopeng](https://byelenin.github.io/)</small> 
 * <small>**B.** in Economics<br>
 	School of Economics, Jilin University (Sep 2015 – Jun 2019) </small>  
+
+<h2 id="research">Research</h2> 
+
+<small>**CHARLS Data Cleaning**, Data Management Project (Apr 2021)</small> 
+* <small>Includes The Waves from 2011 to 2018.</small>
+
+<small>**Convergence or Divergence**, Working paper (Mar 2021)</small> 
+* <small>The Dynamic Trend ofWage Difference of Migrant Workers among Cities in China – Evidence from CMDS.</small>
+* <small>collaborator: [Frank Qu](https://byelenin.github.io/)</small>
+
+<small>**The Impact of City Size to ImmigrantWage Premium**, Thesis Proposal (Nov 2020)</small> 
+* <small>The Impact of City Size to ImmigrantWage Premium and Related Dynamic Change.</small>
+
+<small>**CMDS Data Cleaning**, Data Management Project (May 2020)</small> 
+* <small>From 2011 to 2018.</small>
+
+<small>**The Effect of Population Mobility on Birth Spacing**, Curriculum paper (Feb 2020)</small> 
+* <small>Based on Survival Analysis.</small>
+
+<small>**The Influence of Endowment Insurance on Labor Supply of Migrant Workers**, Curriculum paper (Feb 2020)</small> 
+* <small>Based on PSM.</small>
