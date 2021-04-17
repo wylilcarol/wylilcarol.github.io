@@ -115,3 +115,10 @@ h1, h2, h3, h4, h5, h6 {
 * <small>The East Asian Economic Forum 2018</small>
 * <small>Site: Changchun, Jilin</small>
 * <small>Jilin University, Osaka Municipal University and Jeonnam National University, South Korea</small>
+
+<h2 id="contact">Contact</h2>
+
+* <small>**Tel No**: +86 155-6881-3151</small> 
+* <small>**MailTo**: wycarol11@gmail.com</small>  
+* <small>**GitHub**: github.com/wylilcarol</small> 
+* <small>**Address**: 22 Hankou Road, Nanjing, 210093</small> 
