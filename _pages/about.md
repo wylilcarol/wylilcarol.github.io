@@ -120,5 +120,6 @@ h1, h2, h3, h4, h5, h6 {
 
 * <small>**Tel No**: +86 155-6881-3151</small> 
 * <small>**MailTo**: wycarol11@gmail.com</small>  
-* <small>**GitHub**: github.com/wylilcarol</small> 
+* <small>**GitHub**: [github.com/wylilcarol](https://github.com/wylilcarol)</small> 
+* <small>**Website**:[wylilcarol.github.io](https://wylilcarol.github.io/) <br> [wangyi.netlify.app](https://wangyi.netlify.app)</small>
 * <small>**Address**: 22 Hankou Road, Nanjing, 210093</small> 
