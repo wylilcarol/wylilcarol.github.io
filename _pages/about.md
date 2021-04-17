@@ -118,7 +118,8 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="literature">Literature</h2>
 
-* <small>Chen,Ting and James Kung(2019), [“Busting the ‘Princelings’: The Campaign against Corruption in China’s Primary Land Market”,The Quarterly Journal of Economics, 134(1),pp.185–226](https://academic.oup.com/qje/article/134/1/185/5140154) and [[Slide]](https://wylilcarol.github.io/files/Busting.pptx).</small>
+* <small>Chen,Ting and James Kung(2019), [“Busting the ‘Princelings’: The Campaign against Corruption in China’s Primary Land Market”,The Quarterly Journal of Economics, 134(1),pp.185–226](https://academic.oup.com/qje/article/134/1/185/5140154) and [[Slide]](https://wylilcarol.github.io/files/Busting.pptx).<br>
+	published at the Literature Reading Section of ”The Blue Whale OLS” WeChat public account, reading 4000+.[[Link]](https://wylilcarol.github.io/peopleBusting the ‘Princelings’.html)</small>
 
 * <small>Einav L, Finkelstein A, Cullen M R(2010), [“Estimating welfare in insurance markets using variation in prices”, The Quarterly Journal of Economics, 125(3),pp.877-921.](https://www.nber.org/papers/w14414) and [[Slide]](https://wylilcarol.github.io/files/Estimating.pptx).</small>
 
