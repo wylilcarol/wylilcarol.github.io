@@ -17,7 +17,7 @@ output:
 </style>
 
 
-#### 8 Stata Labs Teaching (上机课详细日程安排)
+#### 8 Stata Labs Teaching (Curriculum)
 
 | Week | Topic | Stata_Slides | Date |
 | :-----: | :---- | :----: |:----: |
