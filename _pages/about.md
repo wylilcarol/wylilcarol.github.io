@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="ta">TA</h2> 
 
-<small>**Introduction to Econometrics (8 Stata Labs Teaching)** [Computer Lab Slides](https://wylilcarol.github.io/Labs.html)</small> 
+<small>**Introduction to Econometrics (8 Stata Labs Teaching)** [[Computer Lab Slides]](https://wylilcarol.github.io/Labs.html)</small> 
 * <small>Fall 2020, Junior student, School of Economics, Nanjing University, Taught by Frank Qu. </small> 
 
 <small>**Management Decisions and Big Data**</small>  
