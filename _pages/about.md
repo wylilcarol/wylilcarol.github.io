@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="presentations">Presentations</h2> 
 
-<small>**Convergence or Divergence, collaborator Frank Qu, Sep 2020**</small> 
+<small>**Convergence or Divergence, collaborator Frank Qu, Sep 2020**[[Slides]](https://wylilcarol.github.io/files/Convergence.pdf)</small> 
 * <small>The 15th Quarterly Meeting of China Labor Economists Forum</small>
 * <small>Site: Cloud meeting</small>
 * <small>Anhui University of Finance and Economics (Organizer)</small>
