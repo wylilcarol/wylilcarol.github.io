@@ -106,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Anhui University of Finance and Economics (Organizer)</small>
 * <small>Council of China Labor Economics Scholars Forum, CLEF (Sponsor)</small>
 
-<small>**The Impact of City Size to ImmigrantWage Premium, Nov 2020** [[Slides]](https://wylilcarol.github.io/files/Premium.pdf)</small> 
+<small>**The Impact of City Size to Immigrant Wage Premium, Nov 2020** [[Slides]](https://wylilcarol.github.io/files/Premium.pdf)</small> 
 * <small>Thesis Proposal</small>
 * <small>Site: Institute of Population Research, School of Business, Nanjing University</small>
 
