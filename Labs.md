@@ -20,7 +20,7 @@ output:
 #### 8 Stata Labs Teaching (上机课详细日程安排)
 
 | Week | Topic | Stata_Slides | Date |
-| :-----: | :---- | :----: |:----: |:----: |
+| :-----: | :---- | :----: |:----: |
 | 2 | Lab1: Introduction to Stata|[Stata](https://wylilcarol.github.io/Labs/Lab1/Stata/Stata_Lab1_2020.pdf) with [Data](https://wylilcarol.github.io/Labs/Lab1/Stata/lab1_Source.zip) | 9/16 |
 | 3 | Lab2: Data Management|[Stata](https://wylilcarol.github.io/Labs/Lab2/Stata/Stata_Lab2_2020.pdf) with [Data](https://wylilcarol.github.io/Labs/Lab2/Stata/lab2_Source.zip)  | 9/23 |
 | 4 | Lab3: Data Management|[Stata](https://wylilcarol.github.io/Labs/Lab3/Stata/Stata_Lab3_2020.pdf) with [Data](https://wylilcarol.github.io/Labs/Lab3/Stata/lab3_Source.zip) | 9/27 |
