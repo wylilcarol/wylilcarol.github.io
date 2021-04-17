@@ -38,13 +38,13 @@ h1, h2, h3, h4, h5, h6 {
 </style>
 {% include base_path %} 
 * <small>Master at Business School of Nanjing University</small> 
-* <small>Magjor in Population Resources and Environmental Economics</small>  
+* <small>Major in Population Resources and Environmental Economics</small>  
 * <small>Research Interests: Labor Economics, Applied Microeconometrics, Migrant Population, Wage Inequality</small>  
 
 
 <h2 id="education">Education</h2> 
 * <small>**M.** in Population Resources and Environmental Economics<br>
-	Business School, Nanjing University (Recommendation) (Sep 2019 – Jun 2022)<br>
+	Business School, Nanjing University (Recommendation) (Sep 2019 – Jun 2022end)<br>
 	Supervisor：[Qu Zhaopeng](https://byelenin.github.io/)</small> 
 * <small>**B.** in Economics<br>
 	School of Economics, Jilin University (Sep 2015 – Jun 2019) </small>  
