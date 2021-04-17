@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="ta">TA</h2> 
 
-<small>**Introduction to Econometrics (8 Stata Labs Teaching)**</small> 
+<small>**Introduction to Econometrics (8 Stata Labs Teaching)** [[Computer Lab Slides]](https://wylilcarol.github.io/Labs.html)</small> 
 * <small>Fall 2020, Junior student, School of Economics, Nanjing University, Taught by Frank Qu. </small> 
 
 <small>**Management Decisions and Big Data**</small>  
@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="presentations">Presentations</h2> 
 
-<small>**Convergence or Divergence, collaborator Frank Qu, Sep 2020**</small> 
+<small>**Convergence or Divergence, collaborator Frank Qu, Sep 2020**[[Slides]](https://wylilcarol.github.io/files/Convergence.pdf)</small> 
 * <small>The 15th Quarterly Meeting of China Labor Economists Forum</small>
 * <small>Site: Cloud meeting</small>
 * <small>Anhui University of Finance and Economics (Organizer)</small>
