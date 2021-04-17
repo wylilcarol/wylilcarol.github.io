@@ -74,3 +74,45 @@ h1, h2, h3, h4, h5, h6 {
 
 <small>**The Influence of Endowment Insurance on Labor Supply of Migrant Workers**, Curriculum paper (Feb 2020)</small> 
 * <small>Based on PSM.</small>
+
+<h2 id="ta">TA</h2> 
+
+<small>**Introduction to Econometrics (8 Stata Labs Teaching)**</small> 
+* <small>Fall 2020, Junior student, School of Economics, Nanjing University, Taught by Frank Qu. </small> 
+
+<small>**Management Decisions and Big Data**</small>  
+* <small>Spring 2020, MBA program of Nanjing University Business School, Taught by Frank Qu. </small> 
+
+<small>**Labor Economics**</small> 
+* <small>Fall 2019, Junior student, School of Economics, Nanjing University, Taught by Frank Qu. </small> 
+
+<h2 id="work">Work</h2> 
+
+<small>**Government Internship Program, May 2020 – Aug 2020**</small> 
+* <small>Fuxin Statistics Bureau (Fuxin, Liaoning)</small>
+* <small>Participated in the Comprehensive Pilot Census of the Seventh National Census</small>
+* <small>Conducted field research as a census office worker</small>
+* <small>Provide guidance on the implementation of local census programmes</small>
+
+<small>**Internship Program at an Internet finance company, Jan 2019 – Mar 2019**</small> 
+* <small>51 Credit (Chaoyang District, Beijing)</small>
+* <small>Worked as a member in the data traffic operation group of the marketing department</small>
+* <small>Website management and information distribution</small>
+
+<h2 id="presentations">Presentations</h2> 
+
+<small>**Convergence or Divergence, collaborator Frank Qu, Sep 2020**</small> 
+* <small>The 15th Quarterly Meeting of China Labor Economists Forum</small>
+* <small>Site: Cloud meeting</small>
+* <small>Anhui University of Finance and Economics (Organizer)</small>
+* <small>Council of China Labor Economics Scholars Forum, CLEF (Sponsor)</small>
+
+<small>**Report on Pension System, Mar 2018**</small> 
+* <small>Sino-Japanese Economics and East Asian Economics Development Forum</small>
+* <small>Site: Nishimiya, Hyogo Prefecture in Japan</small>
+* <small>Kansai Gakuin University and Jilin University</small>
+
+<small>**Conference communication volunteer, Oct 2018**</small> 
+* <small>The East Asian Economic Forum 2018</small>
+* <small>Site: Changchun, Jilin</small>
+* <small>Jilin University, Osaka Municipal University and Jeonnam National University, South Korea</small>
