@@ -65,13 +65,19 @@ h1, h2, h3, h4, h5, h6 {
 <small>**The Impact of City Size to ImmigrantWage Premium**, Thesis Proposal (Nov 2020)</small> 
 * <small>The Impact of City Size to ImmigrantWage Premium and Related Dynamic Change.</small>
 
+<small>**DSP Data Collection**, Data Collection Project (Aug 2020)</small> 
+* <small>Collect relevant indicators of districts and counties contained in DSP (Disease Control and Monitoring System).</small>
+
+<small>**Application of the Big Data**, Literature Review Report (Jun 2020)</small> 
+* <small>The research and application of the Big Data in the fields of population, labor force and migration.</small>
+
 <small>**CMDS Data Cleaning**, Data Management Project (May 2020)</small> 
 * <small>From 2011 to 2018.</small>
 
 <small>**The Effect of Population Mobility on Birth Spacing**, Curriculum paper (Feb 2020)</small> 
 * <small>Based on Survival Analysis.</small>
 
-<small>**The Influence of Endowment Insurance on Labor Supply of Migrant Workers**, Curriculum paper (Feb 2020)</small> 
+<small>**The Influence of Endowment Insurance on Labor Supply of Migrant Workers**, Curriculum paper (Dec 2019)</small> 
 * <small>Based on PSM.</small>
 
 <h2 id="ta">TA</h2> 
