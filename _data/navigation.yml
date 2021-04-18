@@ -25,7 +25,7 @@ main:
     url: /#contact
 
   - title: "Chinese"
-    url: /ch/about/
+    url: /ch/_pages/about
 
 # - title: "Publications"
 #     url: /publications/
