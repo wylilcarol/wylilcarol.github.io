@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 <h2 id="education">Education</h2> 
 * <small>**M.** in Population Resources and Environmental Economics<br>
 	Business School, Nanjing University (Recommendation) (Sep 2019 – Jun 2022end)<br>
-	Supervisor：[Qu Zhaopeng](https://byelenin.github.io/)</small> 
+	Supervisor：[Frank Qu](https://byelenin.github.io/)</small> 
 * <small>**B.** in Economics<br>
 	School of Economics, Jilin University (Sep 2015 – Jun 2019) </small>  
 
@@ -106,13 +106,13 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="presentations">Presentations</h2> 
 
-<small>**Convergence or Divergence, collaborator Frank Qu, Sep 2020** [[Slide]](https://wylilcarol.github.io/files/Convergence.pdf)</small> 
+<small>**Convergence or Divergence, collaborator Frank Qu, Sep 2020** [[Slides]](https://wylilcarol.github.io/files/Convergence.pdf)</small> 
 * <small>The 15th Quarterly Meeting of China Labor Economists Forum</small>
 * <small>Site: Cloud meeting</small>
 * <small>Anhui University of Finance and Economics (Organizer)</small>
 * <small>Council of China Labor Economics Scholars Forum, CLEF (Sponsor)</small>
 
-<small>**The Impact of City Size to Immigrant Wage Premium, Nov 2020** [[Slide]](https://wylilcarol.github.io/files/Premium.pdf)</small> 
+<small>**The Impact of City Size to Immigrant Wage Premium, Nov 2020** [[Slides]](https://wylilcarol.github.io/files/Premium.pdf)</small> 
 * <small>Thesis Proposal</small>
 * <small>Site: Institute of Population Research, School of Business, Nanjing University</small>
 
@@ -128,16 +128,16 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="literature">Literature</h2>
 
-* <small>Chen,Ting and James Kung(2019), [“Busting the ‘Princelings’: The Campaign against Corruption in China’s Primary Land Market”,The Quarterly Journal of Economics, 134(1),pp.185–226](https://academic.oup.com/qje/article/134/1/185/5140154) and [[Slide]](https://wylilcarol.github.io/files/Busting.pptx).<br>
+* <small>Chen,Ting and James Kung(2019), [“Busting the ‘Princelings’: The Campaign against Corruption in China’s Primary Land Market”,The Quarterly Journal of Economics, 134(1),pp.185–226](https://academic.oup.com/qje/article/134/1/185/5140154) and [[Slides]](https://wylilcarol.github.io/files/Busting.pptx).<br>
 	published at the Literature Reading Section of ”The Blue Whale OLS” WeChat public account, reading 4000+. [[Link]](https://wylilcarol.github.io/Busting.html)</small>
 
-* <small>Einav L, Finkelstein A, Cullen M R(2010), [“Estimating welfare in insurance markets using variation in prices”, The Quarterly Journal of Economics, 125(3),pp.877-921.](https://www.nber.org/papers/w14414) and [[Slide]](https://wylilcarol.github.io/files/Estimating.pptx).</small>
+* <small>Einav L, Finkelstein A, Cullen M R(2010), [“Estimating welfare in insurance markets using variation in prices”, The Quarterly Journal of Economics, 125(3),pp.877-921.](https://www.nber.org/papers/w14414) and [[Slides]](https://wylilcarol.github.io/files/Estimating.pptx).</small>
 
-* <small>Metcalf G E, Wang Q(2019), [“Abandoned by Coal, Swallowed by Opioids?”, National Bureau of Economic Research](https://www.nber.org/papers/w26551) and [[Slide]](https://wylilcarol.github.io/files/Abandoned.pdf).</small>
+* <small>Metcalf G E, Wang Q(2019), [“Abandoned by Coal, Swallowed by Opioids?”, National Bureau of Economic Research](https://www.nber.org/papers/w26551) and [[Slides]](https://wylilcarol.github.io/files/Abandoned.pdf).</small>
 
-* <small>Fan, M., He, G., & Zhou, M. (2020), [“The winter choke: Coal-Fired heating, air pollution, and mortality in China”. Journal of Health Economics, 102316.](https://www.sciencedirect.com/science/article/abs/pii/S0167629619311257) and [[Slide]](https://wylilcarol.github.io/files/Choke.pdf).</small>
+* <small>Fan, M., He, G., & Zhou, M. (2020), [“The winter choke: Coal-Fired heating, air pollution, and mortality in China”. Journal of Health Economics, 102316.](https://www.sciencedirect.com/science/article/abs/pii/S0167629619311257) and [[Slides]](https://wylilcarol.github.io/files/Choke.pdf).</small>
 
-* <small>Kinnan C, Wang S Y, Wang Y.(2018), [“Access to migration for rural households”, American Economic Journal: Applied Economics, 10(4),pp.79-119.](https://www.aeaweb.org/articles?id=10.1257/app.20160395) and [[Slide]](https://wylilcarol.github.io/files/Access.pdf)</small>
+* <small>Kinnan C, Wang S Y, Wang Y.(2018), [“Access to migration for rural households”, American Economic Journal: Applied Economics, 10(4),pp.79-119.](https://www.aeaweb.org/articles?id=10.1257/app.20160395) and [[Slides]](https://wylilcarol.github.io/files/Access.pdf)</small>
 
 
 <h2 id="contact">Contact</h2>
