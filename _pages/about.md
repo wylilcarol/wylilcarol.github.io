@@ -106,6 +106,13 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="presentations">Presentations</h2> 
 
+<small>**From Convergence to Divergence, collaborator Frank Qu & Jianghuai Zheng, Jun 2021** [[Slides]](https://wylilcarol.github.io/files/Convergence0620.pdf)</small> 
+* <small>Urban and Rural Integration and Rural Revitalization</small>
+* <small>From Convergence to Divergence: The Latest Dynamic Evolution Trend ofWage Difference among Migrant Workers in Cities – Evidence from the Dynamic Monitoring Survey Data of the Migrant Population</small>
+* <small>Site: Holiday Inn Nanjing Shangqinhuai, Nanjing, Jiangsu</small>
+* <small>Chinese Association for Regional Science (Organizer)</small>
+* <small>School of Economics and Management of Southeast University(Sponsor)</small>
+
 <small>**Convergence or Divergence, collaborator Frank Qu, Sep 2020** [[Slides]](https://wylilcarol.github.io/files/Convergence.pdf)</small> 
 * <small>The 15th Quarterly Meeting of China Labor Economists Forum</small>
 * <small>Site: Cloud meeting</small>
