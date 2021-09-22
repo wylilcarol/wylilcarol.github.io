@@ -55,12 +55,18 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="research">Research</h2> 
 
-<small>**CHARLS Data Cleaning**, Data Management Project (Apr 2021)</small> 
-* <small>Includes The Waves from 2011 to 2018.</small>
+<small>**Administrative Levels and Wage Differences between Cities**, Thesis (Ongoing)</small> 
+* <small>The effect of different administrative levels on wage differences between cities.</small>
 
-<small>**Convergence or Divergence**, Working paper (Mar 2021)</small> 
+<small>**City Yearbook Data Cleaning and Merging**, Data Management Project (Aug 2021)</small> 
+* <small>From 1998 to 2019.</small>
+
+<small>**CHARLS Data Cleaning**, Data Management Project (Apr 2021)</small> 
+* <small>Includes the Waves from 2011 to 2018.</small>
+
+<small>**From Convergence to Divergence**, Working paper (Under Review)</small> 
 * <small>The Dynamic Trend ofWage Difference of Migrant Workers among Cities in China – Evidence from CMDS.</small>
-* <small>collaborator: [Frank Qu](https://byelenin.github.io/)</small>
+* <small>collaborator: [Frank Qu](https://byelenin.github.io/) & Jianghuai Zheng </small>
 
 <small>**The Impact of City Size to ImmigrantWage Premium**, Thesis Proposal (Nov 2020)</small> 
 * <small>The Impact of City Size to ImmigrantWage Premium and Related Dynamic Change.</small>
@@ -134,6 +140,8 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Jilin University, Osaka Municipal University and Jeonnam National University, South Korea</small>
 
 <h2 id="literature">Literature</h2>
+
+* <small>Zinovyeva N, Tverdostup M.(2018), [“Gender identity, co-working spouses and relative income within households”, AEJ: Applied Economics.](https://www.aeaweb.org/articles?id=10.1257/app.20180542) and published at “Big Thesis Big Stew Pot” WeChat public account. [[Link]](https://www.nber.org/papers/w14414)</small>
 
 * <small>Chen,Ting and James Kung(2019), [“Busting the ‘Princelings’: The Campaign against Corruption in China’s Primary Land Market”,The Quarterly Journal of Economics, 134(1),pp.185–226](https://academic.oup.com/qje/article/134/1/185/5140154) and [[Slides]](https://wylilcarol.github.io/files/Busting.pptx).<br>
 	published at the Literature Reading Section of ”The Blue Whale OLS” WeChat public account, reading 4000+. [[Link]](https://wylilcarol.github.io/Busting.html)</small>
