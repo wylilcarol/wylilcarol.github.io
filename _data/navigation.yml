@@ -18,11 +18,11 @@ main:
   - title: "Literature"
     url: /#literature
 
-  - title: "CV(En)"
+  - title: "CV"
     url: /files/CV.pdf  
    
-  - title: "CV(Ch)"
-    url: /files/CV_ch.pdf  
+#  - title: "CV(Ch)"
+#    url: /files/CV_ch.pdf  
     
   - title: "Contact"
     url: /#contact
