@@ -55,6 +55,9 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="research">Research</h2> 
 
+<small>**Newly Opened High-Speed Railway Station Address Data Cleaning and GIS Combination**, Data Management Project (Mar 2022)</small> 
+* <small>From 2008 to 2022.</small>
+
 <small>**Administrative Levels and Wage Differences between Cities**, Thesis (Ongoing)</small> 
 * <small>The effect of different administrative levels on wage differences between cities.</small>
 
@@ -112,6 +115,10 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="presentations">Presentations</h2> 
 
+<small>**Administrative Level, Household Registration Division and Dynamics of Spatial Wage Inequality, Apr 2022** [[Slides]](https://wylilcarol.github.io/files/master.pdf)</small> 
+* <small>Thesis Defense</small>
+* <small>Site: Institute of Population Research, School of Business, Nanjing University</small>
+
 <small>**From Convergence to Divergence, collaborator Frank Qu & Jianghuai Zheng, Jun 2021** [[Slides]](https://wylilcarol.github.io/files/Convergence0620.pdf)</small> 
 * <small>Urban and Rural Integration and Rural Revitalization</small>
 * <small>From Convergence to Divergence: The Latest Dynamic Evolution Trend of Wage Difference among Migrant Workers in Cities – Evidence from the Dynamic Monitoring Survey Data of the Migrant Population</small>
@@ -140,6 +147,8 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Jilin University, Osaka Municipal University and Jeonnam National University, South Korea</small>
 
 <h2 id="literature">Literature</h2>
+
+* <small>Reshmaan H, Atonu R, Giovanni R, Natalia R(2022), [“Rational Habit Formation: Experimental Evidence from Handwashing in India”, AEJ: Applied Economics.](https://www.aeaweb.org/articles?id=10.1257/app.20180542) and published at “Big Thesis Big Stew Pot” WeChat public account. [[Link]](https://mp.weixin.qq.com/s/qzpAjZkA0F2uY3L96qvI0w)</small>
 
 * <small>Zinovyeva N, Tverdostup M.(2018), [“Gender identity, co-working spouses and relative income within households”, AEJ: Applied Economics.](https://www.aeaweb.org/articles?id=10.1257/app.20180542) and published at “Big Thesis Big Stew Pot” WeChat public account. [[Link]](https://mp.weixin.qq.com/s/MG5Nbislub4sDUHE50vQOg)</small>
 
