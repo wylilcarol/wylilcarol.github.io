@@ -55,24 +55,19 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="research">Research</h2> 
 
-<small>**Newly Opened High-Speed Railway Station Address Data Cleaning and GIS Combination**, Data Management Project (Mar 2022)</small> 
-* <small>From 2008 to 2022.</small>
+<small>**Newly Opened High-Speed Railway Station Address Data Cleaning and GIS**, Data Management Project (May 2022)</small> 
 
-<small>**Administrative Levels and Wage Differences between Cities**, Thesis (Ongoing)</small> 
-* <small>The effect of different administrative levels on wage differences between cities.</small>
+<small>**Administrative Level, Household Registration Division and Dynamics of Spatial Wage Inequality**, Thesis (Apr 2022)</small> 
 
 <small>**City Yearbook Data Cleaning and Merging**, Data Management Project (Aug 2021)</small> 
-* <small>From 1998 to 2019.</small>
 
 <small>**CHARLS Data Cleaning**, Data Management Project (Apr 2021)</small> 
-* <small>Includes the Waves from 2011 to 2018.</small>
 
 <small>**From Convergence to Divergence**, Working paper (Under Review)</small> 
-* <small>The Dynamic Trend ofWage Difference of Migrant Workers among Cities in China – Evidence from CMDS.</small>
-* <small>collaborator: [Frank Qu](https://byelenin.github.io/) & Jianghuai Zheng </small>
+* <small>**Title**:From Convergence to Divergence: The Latest Dynamic Evolution Trend of Wage Difference among Migrant Workers in Cities – Evidence from the Dynamic Monitoring Survey Data of the Migrant Population.</small>
+* <small>Collaborator: [Frank Qu](https://byelenin.github.io/) & Jianghuai Zheng </small>
 
 <small>**The Impact of City Size to ImmigrantWage Premium**, Thesis Proposal (Nov 2020)</small> 
-* <small>The Impact of City Size to ImmigrantWage Premium and Related Dynamic Change.</small>
 
 <small>**DSP Data Collection**, Data Collection Project (Aug 2020)</small> 
 * <small>Collect relevant indicators of districts and counties contained in DSP (Disease Control and Monitoring System).</small>
@@ -119,14 +114,18 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Thesis Defense</small>
 * <small>Site: Institute of Population Research, School of Business, Nanjing University</small>
 
-<small>**From Convergence to Divergence, collaborator Frank Qu & Jianghuai Zheng, Jun 2021** [[Slides]](https://wylilcarol.github.io/files/Convergence0620.pdf)</small> 
+<small>**Group Meetiing Share: Stata Crawler, Sep 2021** [[Slides]](https://wylilcarol.github.io/files/Group12_crawler.pdf)[[Dofile]](https://wylilcarol.github.io/files/crawler_ceo.do)</small> 
+
+<small>**Group Meetiing Share: Introduction of EndNote, Aug 2021** [[Slides]](https://wylilcarol.github.io/files/Group06_IntroEndNote.pdf)</small> 
+
+<small>**From Convergence to Divergence, Collaborator Frank Qu & Jianghuai Zheng, Jun 2021** [[Slides]](https://wylilcarol.github.io/files/Convergence0620.pdf)</small> 
 * <small>Urban and Rural Integration and Rural Revitalization</small>
 * <small>From Convergence to Divergence: The Latest Dynamic Evolution Trend of Wage Difference among Migrant Workers in Cities – Evidence from the Dynamic Monitoring Survey Data of the Migrant Population</small>
 * <small>Site: Holiday Inn Nanjing Shangqinhuai, Nanjing, Jiangsu</small>
 * <small>Chinese Association for Regional Science (Organizer)</small>
 * <small>School of Economics and Management of Southeast University(Sponsor)</small>
 
-<small>**Convergence or Divergence, collaborator Frank Qu, Sep 2020** [[Slides]](https://wylilcarol.github.io/files/Convergence.pdf)</small> 
+<small>**Convergence or Divergence, Collaborator Frank Qu, Sep 2020** [[Slides]](https://wylilcarol.github.io/files/Convergence.pdf)</small> 
 * <small>The 15th Quarterly Meeting of China Labor Economists Forum</small>
 * <small>Site: Cloud meeting</small>
 * <small>Anhui University of Finance and Economics (Organizer)</small>
@@ -141,27 +140,27 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Site: Nishimiya, Hyogo Prefecture in Japan</small>
 * <small>Kansai Gakuin University and Jilin University</small>
 
-<small>**Conference communication volunteer, Oct 2018**</small> 
+<small>**Conference Communication Volunteer, Oct 2018**</small> 
 * <small>The East Asian Economic Forum 2018</small>
 * <small>Site: Changchun, Jilin</small>
 * <small>Jilin University, Osaka Municipal University and Jeonnam National University, South Korea</small>
 
 <h2 id="literature">Literature</h2>
 
-* <small>Reshmaan H, Atonu R, Giovanni R, Natalia R(2022), [“Rational Habit Formation: Experimental Evidence from Handwashing in India”, AEJ: Applied Economics.](https://www.aeaweb.org/articles?id=10.1257/app.20180542) and published at “Big Thesis Big Stew Pot” WeChat public account. [[Link]](https://mp.weixin.qq.com/s/qzpAjZkA0F2uY3L96qvI0w)</small>
+* <small>Reshmaan H, Atonu R, Giovanni R, Natalia R.(2022), [“Rational Habit Formation: Experimental Evidence from Handwashing in India”, American Economic Journal: Applied Economics.](https://www.aeaweb.org/articles?id=10.1257/app.20180542) Published at “Big Thesis Big Stew Pot” WeChat public account. [[Link]](https://mp.weixin.qq.com/s/qzpAjZkA0F2uY3L96qvI0w)</small>
 
-* <small>Zinovyeva N, Tverdostup M.(2018), [“Gender identity, co-working spouses and relative income within households”, AEJ: Applied Economics.](https://www.aeaweb.org/articles?id=10.1257/app.20180542) and published at “Big Thesis Big Stew Pot” WeChat public account. [[Link]](https://mp.weixin.qq.com/s/MG5Nbislub4sDUHE50vQOg)</small>
+* <small>Zinovyeva N, Tverdostup M.(2018), [“Gender identity, co-working spouses and relative income within households”, American Economic Journal: Applied Economics.](https://www.aeaweb.org/articles?id=10.1257/app.20180542)Published at “Big Thesis Big Stew Pot” WeChat public account. [[Link]](https://mp.weixin.qq.com/s/MG5Nbislub4sDUHE50vQOg)</small>
 
-* <small>Chen,Ting and James Kung(2019), [“Busting the ‘Princelings’: The Campaign against Corruption in China’s Primary Land Market”,The Quarterly Journal of Economics, 134(1),pp.185–226](https://academic.oup.com/qje/article/134/1/185/5140154) and [[Slides]](https://wylilcarol.github.io/files/Busting.pptx).<br>
-	published at the Literature Reading Section of ”The Blue Whale OLS” WeChat public account, reading 4000+. [[Link]](https://wylilcarol.github.io/Busting.html)</small>
+* <small>Chen T, Kung J K.(2019), [“Busting the ‘Princelings’: The Campaign against Corruption in China’s Primary Land Market”,The Quarterly Journal of Economics.](https://academic.oup.com/qje/article/134/1/185/5140154) and [[Slides]](https://wylilcarol.github.io/files/Busting.pptx).<br>
+	published at the Literature Reading Section of “The Blue Whale OLS” WeChat public account, reading 4000+. [[Link]](https://wylilcarol.github.io/Busting.html)</small>
 
-* <small>Einav L, Finkelstein A, Cullen M R(2010), [“Estimating welfare in insurance markets using variation in prices”, The Quarterly Journal of Economics, 125(3),pp.877-921.](https://www.nber.org/papers/w14414) and [[Slides]](https://wylilcarol.github.io/files/Estimating.pptx).</small>
+* <small>Einav L, Finkelstein A, Cullen M R.(2010), [“Estimating welfare in insurance markets using variation in prices”, The Quarterly Journal of Economics.](https://www.nber.org/papers/w14414) and [[Slides]](https://wylilcarol.github.io/files/Estimating.pptx).</small>
 
-* <small>Metcalf G E, Wang Q(2019), [“Abandoned by Coal, Swallowed by Opioids?”, National Bureau of Economic Research](https://www.nber.org/papers/w26551) and [[Slides]](https://wylilcarol.github.io/files/Abandoned.pdf).</small>
+* <small>Metcalf G E, Wang Q.(2019), [“Abandoned by Coal, Swallowed by Opioids?”, National Bureau of Economic Research](https://www.nber.org/papers/w26551) and [[Slides]](https://wylilcarol.github.io/files/Abandoned.pdf).</small>
 
-* <small>Fan, M., He, G., & Zhou, M. (2020), [“The winter choke: Coal-Fired heating, air pollution, and mortality in China”. Journal of Health Economics, 102316.](https://www.sciencedirect.com/science/article/abs/pii/S0167629619311257) and [[Slides]](https://wylilcarol.github.io/files/Choke.pdf).</small>
+* <small>Fan M, He G, Zhou M.(2020), [“The winter choke: Coal-Fired heating, air pollution, and mortality in China”. Journal of Health Economics.](https://www.sciencedirect.com/science/article/abs/pii/S0167629619311257) and [[Slides]](https://wylilcarol.github.io/files/Choke.pdf).</small>
 
-* <small>Kinnan C, Wang S Y, Wang Y.(2018), [“Access to migration for rural households”, American Economic Journal: Applied Economics, 10(4),pp.79-119.](https://www.aeaweb.org/articles?id=10.1257/app.20160395) and [[Slides]](https://wylilcarol.github.io/files/Access.pdf)</small>
+* <small>Kinnan C, Wang S Y, Wang Y.(2018), [“Access to migration for rural households”, American Economic Journal: Applied Economics.](https://www.aeaweb.org/articles?id=10.1257/app.20160395) and [[Slides]](https://wylilcarol.github.io/files/Access.pdf)</small>
 
 
 <h2 id="contact">Contact</h2>
