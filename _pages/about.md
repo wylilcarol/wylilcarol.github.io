@@ -147,6 +147,8 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="literature">Literature</h2>
 
+* <small>Dong L, Du R, Kahn M, Ratti C, Zheng S.(2021), [“‘Ghost cities’ versus boom towns: Do China's high-speed rail new towns thrive?”, Regional Science and Urban Economics.](https://doi.org/10.1016/j.regsciurbeco.2021.103682) and [[Slides]](https://wylilcarol.github.io/files/HSR.pdf).</small>
+
 * <small>Reshmaan H, Atonu R, Giovanni R, Natalia R.(2022), [“Rational Habit Formation: Experimental Evidence from Handwashing in India”, American Economic Journal: Applied Economics.](https://www.aeaweb.org/articles?id=10.1257/app.20180542) Published at “Big Thesis Big Stew Pot” WeChat public account. [[Link]](https://mp.weixin.qq.com/s/qzpAjZkA0F2uY3L96qvI0w)</small>
 
 * <small>Zinovyeva N, Tverdostup M.(2018), [“Gender identity, co-working spouses and relative income within households”, American Economic Journal: Applied Economics.](https://www.aeaweb.org/articles?id=10.1257/app.20180542)Published at “Big Thesis Big Stew Pot” WeChat public account. [[Link]](https://mp.weixin.qq.com/s/MG5Nbislub4sDUHE50vQOg)</small>
