@@ -37,9 +37,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small>Master at Business School of Nanjing University</small> 
-* <small>Major in Population Resources and Environmental Economics</small>  
-* <small>Research Interests: Labor Economics, Applied Microeconometrics, Migrant Population, Wage Inequality</small>  
+* <small>PHD student at IESR of Jinan University</small> 
+* <small>Major in Regional Economics</small>  
+* <small>Research Interests: Labor Economics, Regional Economics, Applied Microeconometrics</small>  
 * <small>Languages: English<br>
 	Technologies: Stata (Programming), R (Data analysis, Visualization), Python (Basic grammar, Simple crawler, Openpyxl,NumPy, Matplotlib, Pandas), Eviews, PS, Mysql<br>
 	Document Creation: Microsoft Office Suite, LaTex, Markdown, HTML<br>
@@ -47,8 +47,11 @@ h1, h2, h3, h4, h5, h6 {
 
 
 <h2 id="education">Education</h2> 
+* <small>**Ph.D** in Regional Economics<br>
+	IESR, Jinan University (Since Sep 2022)<br>
+	Supervisor：[SiSi Zhang](https:/sisizhang.weebly.com/)</small> 
 * <small>**M.** in Population Resources and Environmental Economics<br>
-	Business School, Nanjing University (Recommendation) (Sep 2019 – Jun 2022end)<br>
+	Business School, Nanjing University (Recommendation) (Sep 2019 – Jun 2022)<br>
 	Supervisor：[Frank Qu](https://byelenin.github.io/)</small> 
 * <small>**B.** in Economics<br>
 	School of Economics, Jilin University (Sep 2015 – Jun 2019) </small>  
