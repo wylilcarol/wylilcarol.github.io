@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 <h2 id="education">Education</h2> 
 * <small>**Ph.D** in Regional Economics<br>
 	IESR, Jinan University (Since Sep 2022)<br>
-	Supervisor：[SiSi Zhang](https:/sisizhang.weebly.com/)</small> 
+	Supervisor：[SiSi Zhang](https://sisizhang.weebly.com/)</small> 
 * <small>**M.** in Population Resources and Environmental Economics<br>
 	Business School, Nanjing University (Recommendation) (Sep 2019 – Jun 2022)<br>
 	Supervisor：[Frank Qu](https://byelenin.github.io/)</small> 
