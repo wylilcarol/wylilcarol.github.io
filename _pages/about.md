@@ -113,6 +113,10 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="presentations">Presentations</h2> 
 
+<small>**Dynamics of Spatial Wage Inequality, July 2022** [[Slides]](https://wylilcarol.github.io/files/Hierarchy.pdf)</small> 
+* <small>Student Presentations</small>
+* <small>Site: 2022 HCEO-IESR Summer School on Socioeconomic Inequality (SSSI) in Guangzhou, China (online),</small>
+
 <small>**Administrative Level, Household Registration Division and Dynamics of Spatial Wage Inequality, Apr 2022** [[Slides]](https://wylilcarol.github.io/files/master.pdf)</small> 
 * <small>Thesis Defense</small>
 * <small>Site: Institute of Population Research, School of Business, Nanjing University</small>
@@ -149,6 +153,14 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Jilin University, Osaka Municipal University and Jeonnam National University, South Korea</small>
 
 <h2 id="literature">Literature</h2>
+
+* <small>Chyn E.(2018), [“Moved to opportunity: The long-run effects of public housing demolition on children”, American Economic Review.](https://doi.org/10.1257/aer.20161352) [[Slides]](https://wylilcarol.github.io/files/Demolition.pdf) and [[Report]](https://wylilcarol.github.io/files/Demolition_report.pdf).</small> 
+
+* <small>Miguel E, Kremer M.(2004), [“Worms: identifying impacts on education and health in the presence of treatment externalities”, Econometrica.](https://doi.org/10.1111/j.1468-0262.2004.00481.x) [[Slides]](https://wylilcarol.github.io/files/Worms.pdf) and [[Report]](https://wylilcarol.github.io/files/Worms_report.pdf).</small> 
+
+* <small>Fisman R, Shi J, Wang Y, Wu W.(2020), [“Social ties and the selection of China's political elite”, American Economic Review.](https://doi.org/10.1257/aer.20180841) [[Slides]](https://wylilcarol.github.io/files/Political_Elite.pdf) and [[Report]](https://wylilcarol.github.io/files/Political_Elite_report.pdf).</small> 
+
+* <small>Bryan G, Chowdhury S, Mobarak A M.(2014), [“Underinvestment in a profitable technology: The case of seasonal migration in Bangladesh”, Econometrica.](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA10489) [[Slides]](https://wylilcarol.github.io/files/Seasonal_Migration.pdf) and [[Report]](https://wylilcarol.github.io/files/Seasonal_Migration_report.pdf).</small> 
 
 * <small>Dong L, Du R, Kahn M, Ratti C, Zheng S.(2021), [“‘Ghost cities’ versus boom towns: Do China's high-speed rail new towns thrive?”, Regional Science and Urban Economics.](https://doi.org/10.1016/j.regsciurbeco.2021.103682) and [[Slides]](https://wylilcarol.github.io/files/HSR.pdf).</small>
 
