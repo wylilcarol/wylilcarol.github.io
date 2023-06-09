@@ -1,4 +1,4 @@
----
+[---
 permalink: /
 title: "Brief Bio"
 excerpt: "About me"
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 <h2 id="education">Education</h2> 
 * <small>**Ph.D** in Regional Economics<br>
 	IESR, Jinan University (Since Sep 2022)<br>
-	Supervisor：[Sisi Zhang](https://sisizhang.weebly.com/)</small> 
+	Supervisor：[Shiyu Bo](https://sisizhang.weebly.com/)</small> 
 * <small>**M.** in Population Resources and Environmental Economics<br>
 	Business School, Nanjing University (Recommendation) (Sep 2019 – Jun 2022)<br>
 	Supervisor：[Frank Qu](https://byelenin.github.io/)</small> 
@@ -57,6 +57,8 @@ h1, h2, h3, h4, h5, h6 {
 	School of Economics, Jilin University (Sep 2015 – Jun 2019) </small>  
 
 <h2 id="research">Research</h2> 
+
+<small>**The Influence of Housing Provident Fund on the Rent Consumption of Migrant Workers**, Working Paper (Dec 2022)</small> 
 
 <small>**Newly Opened High-Speed Railway Station Address Data Cleaning and GIS**, Data Management Project (May 2022)</small> 
 
@@ -112,6 +114,8 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Website management and information distribution</small>
 
 <h2 id="presentations">Presentations</h2> 
+
+<small>**The Influence of Housing Provident Fund on the Rent Consumption of Migrant Workers, Nov 2022** [[Slides]](https://wylilcarol.github.io/files/Housing.pdf)</small> 
 
 <small>**Dynamics of Spatial Wage Inequality, July 2022** [[Slides]](https://wylilcarol.github.io/files/Hierarchy.pdf)</small> 
 * <small>Student Presentations</small>
@@ -188,3 +192,4 @@ h1, h2, h3, h4, h5, h6 {
 * <small>**GitHub**: [github.com/wylilcarol](https://github.com/wylilcarol)</small> 
 * <small>**Website**: [wylilcarol.github.io](https://wylilcarol.github.io/); [wangyi.netlify.app](https://wangyi.netlify.app)</small>
 * <small>**Address**: 22 Hankou Road, Nanjing, 210093</small> 
+](https://iesr.jnu.edu.cn/2019/0821/c17702a648573/page.htm)
