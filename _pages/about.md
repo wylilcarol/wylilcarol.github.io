@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <small>**CHARLS Data Cleaning**, Data Management Project (Apr 2021)</small> 
 
-<small>**From Convergence to Divergence**, Working paper (Under Review)</small>
+<small>**From Convergence to Divergence**, Working paper (Under Review)</small> 
 * <small>**Title**:From Convergence to Divergence: The Latest Dynamic Evolution Trend of Wage Difference among Migrant Workers in Cities – Evidence from the Dynamic Monitoring Survey Data of the Migrant Population.</small>
 * <small>Collaborator: [Frank Qu](https://byelenin.github.io/) & Jianghuai Zheng </small>
 
