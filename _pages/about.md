@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 <h2 id="education">Education</h2> 
 * <small>**Ph.D** in Regional Economics<br>
 	IESR, Jinan University (Since Sep 2022)<br>
-	Supervisor：[Sisi Zhang](https://sisizhang.weebly.com/)</small> 
+	Supervisor：[Shiyu Bo](https://iesr.jnu.edu.cn/2019/0821/c17702a648573/page.htm)</small> 
 * <small>**M.** in Population Resources and Environmental Economics<br>
 	Business School, Nanjing University (Recommendation) (Sep 2019 – Jun 2022)<br>
 	Supervisor：[Frank Qu](https://byelenin.github.io/)</small> 
@@ -57,6 +57,8 @@ h1, h2, h3, h4, h5, h6 {
 	School of Economics, Jilin University (Sep 2015 – Jun 2019) </small>  
 
 <h2 id="research">Research</h2> 
+
+<small>**The Influence of Housing Provident Fund on the Rent Consumption of Migrant Workers**, Working Paper (Dec 2022)</small>
 
 <small>**Newly Opened High-Speed Railway Station Address Data Cleaning and GIS**, Data Management Project (May 2022)</small> 
 
@@ -67,7 +69,7 @@ h1, h2, h3, h4, h5, h6 {
 <small>**CHARLS Data Cleaning**, Data Management Project (Apr 2021)</small> 
 
 <small>**From Convergence to Divergence**, Working paper (Under Review)</small> 
-* <small>**Title**:From Convergence to Divergence: The Latest Dynamic Evolution Trend of Wage Difference among Migrant Workers in Cities – Evidence from the Dynamic Monitoring Survey Data of the Migrant Population.</small>
+* <small>**Title**: From Convergence to Divergence: The Latest Dynamic Evolution Trend of Wage Difference among Migrant Workers in Cities – Evidence from the Dynamic Monitoring Survey Data of the Migrant Population.</small>
 * <small>Collaborator: [Frank Qu](https://byelenin.github.io/) & Jianghuai Zheng </small>
 
 <small>**The Impact of City Size to ImmigrantWage Premium**, Thesis Proposal (Nov 2020)</small> 
@@ -112,6 +114,8 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Website management and information distribution</small>
 
 <h2 id="presentations">Presentations</h2> 
+
+<small>**The Influence of Housing Provident Fund on the Rent Consumption of Migrant Workers, Nov 2022** [[Slides]](https://wylilcarol.github.io/files/Housing.pdf)</small> 
 
 <small>**Dynamics of Spatial Wage Inequality, July 2022** [[Slides]](https://wylilcarol.github.io/files/Hierarchy.pdf)</small> 
 * <small>Student Presentations</small>
