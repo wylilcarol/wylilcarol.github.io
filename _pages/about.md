@@ -37,18 +37,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small>PHD student at IESR of Jinan University</small> 
-* <small>Major in Regional Economics</small>  
-* <small>Research Interests: Labor Economics, Regional Economics, Applied Microeconometrics</small>  
+* <small>Postdoc. Fellow (Teaching) | School of Econ. & Trade, GDUFS</small> 
+* <small>Major in Urban and Regional Economics</small>  
+* <small>Research Interests: Labor Economics, Regional Economics, Applied Microeconometrics, International trade</small>  
 * <small>Languages: English<br>
-	Technologies: Stata (Programming), R (Data analysis, Visualization), Python (Basic grammar, Simple crawler, Openpyxl,NumPy, Matplotlib, Pandas), Eviews, PS, Mysql<br>
+	Technologies: Stata, R, Python, Matlab, Eviews, PS, Mysql<br>
 	Document Creation: Microsoft Office Suite, LaTex, Markdown, HTML<br>
 	Other skills: C1 Driver’s License  </small> 
 
 
 <h2 id="education">Education</h2> 
 * <small>**Ph.D** in Regional Economics<br>
-	IESR, Jinan University (Since Sep 2022)<br>
+	IESR, Jinan University (Sep 2022 - Sep 2025)<br>
 	Supervisor：[Shiyu Bo](https://iesr.jnu.edu.cn/2019/0821/c17702a648573/page.htm)</small> 
 * <small>**M.** in Population Resources and Environmental Economics<br>
 	Business School, Nanjing University (Recommendation) (Sep 2019 – Jun 2022)<br>
